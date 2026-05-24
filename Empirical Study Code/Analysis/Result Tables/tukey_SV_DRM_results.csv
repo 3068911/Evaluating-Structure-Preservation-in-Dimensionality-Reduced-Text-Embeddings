@@ -1,0 +1,4 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+PCA,PaCMAP,-0.1702,0.0,-0.1825,-0.1579,True
+PCA,UMAP,-0.1875,0.0,-0.1997,-0.1752,True
+PaCMAP,UMAP,-0.0172,0.0029,-0.0295,-0.005,True
